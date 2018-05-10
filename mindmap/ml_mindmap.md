@@ -1,8 +1,15 @@
-# A General Theory of Reactivity
-## Concepts
-### Singular and temporal
-### Plural and temporal
-## Primitives
-### Iterators
-### Generator Functions
-### Asynchronous Values
+# Exploration
+## Univariate
+### Numerical
+### Categorical		
+## Bivariate
+### Categorical vs Categorical			
+### Numerical vs Numerical			
+### Categorical vs Numerical			
+## Chart
+### Historgram
+### Boxplot
+### Scatter plot
+### Bar chart
+### Line chart
+### Pie Chart
