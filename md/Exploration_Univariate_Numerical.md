@@ -23,6 +23,10 @@
     skewness(iris$Sepal.Length)     # 왜도
     kurtosis(iris$Sepal.Length)     # 첨도
 
+    # Chart
+    hist(iris$Sepal.Length)         # 히스토그램
+    boxplot(iris$Sepal.Length)      # 박스플롯
+
 ### Python
     Ready
 
