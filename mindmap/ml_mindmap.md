@@ -21,3 +21,23 @@
 ### Dataset Construction
 #### Train Test
 #### Cross Validation
+## Machine Learning
+### Linear Regression
+#### Basic
+#### Evaluation
+#### Multicollinearity
+#### Residual Analysis
+#### Influence
+#### Select Features
+#### Regularization
+### Classification
+#### Logistic Regression
+#### Decision Tree
+#### Ensemble
+#### SVM
+#### KNN
+#### Evaluation
+### Clustering
+#### Hclust
+#### Kmeans
+#### DBSCAN
