@@ -2,6 +2,7 @@
 - 안정적인 모델을 만들기 위해 여러 모델 조합
 - Bagging
 - Boosting
+- RandomForest
 
 ### R
     idx <- sample(1:nrow(iris), nrow(iris) * 0.8)  # train set index 설정

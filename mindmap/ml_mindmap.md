@@ -41,3 +41,9 @@
 #### Hclust
 #### Kmeans
 #### DBSCAN
+### Assocation Rules
+#### Apriori
+### TimeSeries
+#### ARIMA
+### TextMining
+#### KoNLP
